@@ -35,6 +35,7 @@ System.out.println("Bob's Score: " + score);
 // Bob's Score: 90
 ```
 3. `remove(Object key)`
+removes the mapping for a key from this map if it is present.
 ```java
 studentScores.remove("Charlie");
 System.out.println("After removing Charlie: " + studentScores);

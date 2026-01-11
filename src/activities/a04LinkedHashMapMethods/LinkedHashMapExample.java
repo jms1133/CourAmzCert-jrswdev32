@@ -12,7 +12,7 @@ public class LinkedHashMapExample {
         studentScores.put("Bob", 90);
         studentScores.put("Charlie", 78);
 
-        // Displaying all scores
+        // Displaying all scores 
         System.out.println("Initial Scores:");
         for (Map.Entry<String, Integer> entry : studentScores.entrySet()) {
             System.out.println(entry.getKey() + ": " + entry.getValue());
