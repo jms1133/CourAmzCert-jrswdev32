@@ -1,6 +1,6 @@
 package activities.a07BinarySearch;
 
-public class BinarySearchChallenge {
+public class BinarySearchSol {
 
     public static void main(String[] args) {
 
